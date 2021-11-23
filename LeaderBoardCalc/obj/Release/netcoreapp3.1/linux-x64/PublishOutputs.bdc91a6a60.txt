@@ -1,0 +1,9 @@
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\LeaderBoardCalc.dll
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\LeaderBoardCalc.deps.json
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\LeaderBoardCalc.runtimeconfig.json
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\LeaderBoardCalc.pdb
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\AWSSDK.Lambda.dll
+E:\Poolz\0. Lambda\5. Calcs\LeaderBoardCalc\LeaderBoardCalc\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
