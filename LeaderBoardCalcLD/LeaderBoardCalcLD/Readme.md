@@ -38,12 +38,12 @@ If already installed check if new version is available.
 
 Execute unit tests
 ```
-    cd "LeaderBoardCalc/test/LeaderBoardCalc.Tests"
+    cd "LeaderBoardCalcLD/test/LeaderBoardCalcLD.Tests"
     dotnet test
 ```
 
 Deploy function to AWS Lambda
 ```
-    cd "LeaderBoardCalc/src/LeaderBoardCalc"
+    cd "LeaderBoardCalcLD/src/LeaderBoardCalcLD"
     dotnet lambda deploy-function
 ```
